@@ -1,0 +1,11 @@
+# folders
+**/build/
+**/html/
+**/__pycache__/
+**/.cache/
+
+# files
+**compile_commands.json*
+**credentials.py*
+
+
